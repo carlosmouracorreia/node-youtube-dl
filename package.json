@@ -30,7 +30,7 @@
       "email": "benjamin@coriou.net"
     },
     {
-      "name": "Jaime Marquínez Ferrándiz",
+      "name": "Jaime Marquínez Ferrandiz",
       "email": "jaime.marquinez.ferrandiz@gmail.com"
     },
     {
@@ -189,7 +189,7 @@
   "scripts": {
     "lint": "standard-markdown README.md && standard",
     "release": "bumped release",
-    "test": "vows ./test/*.js --spec",
+    "test": "vows ./test/*.js --spec"
   },
   "license": "MIT",
   "commitlint": {
